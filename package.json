@@ -1,5 +1,6 @@
 {
   "name": "react-native-lightbox",
+  "private": true,
   "version": "0.9.0",
   "description": "Images etc in Full Screen Lightbox Popovers for React Native",
   "main": "Lightbox.js",
